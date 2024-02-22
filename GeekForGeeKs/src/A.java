@@ -21,6 +21,7 @@ public class A {
 			  
 		  }
 		System.out.println("Connection is gracefully terminated");
+		System.out.println("yes");
 	}
 
 }
